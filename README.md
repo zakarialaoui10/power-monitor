@@ -2,6 +2,7 @@
 doc
  ui : ziko  
  rendering : astro ? 
+  starlight ? 
  --> 
 # PowerMonitor    
     
