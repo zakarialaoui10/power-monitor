@@ -4,6 +4,7 @@ doc
  rendering : astro ? 
   starlight ? 
  --> 
+vitepress
 # PowerMonitor    
     
 # Initialise   
